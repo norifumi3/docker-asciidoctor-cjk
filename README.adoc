@@ -1,0 +1,4 @@
+[source,bash]
+----
+docker run -it -v <your directory>:/documents/ norifumi3/docker-asciidoctor-cjk
+----
